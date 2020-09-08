@@ -3,5 +3,13 @@
     <string name="home">Home</string>
     <string name="stat">Statistiques</string>
     <string name="settings">Paramètres</string>
+    <string name="covid">Covid 19</string>
+    <string name="sick">Tu te sens mal ?</string>
+    <string name="call_us">Si vous vous sentez malade avec l\'un des symptômes de la covid-19 \nveuillez appeler immédiatement pour obtenir de l\'aide.</string>
+    <string name="allo_samu">Allo SAMU</string>
+    <string name="allo_yakada">Allo Yakada</string>
+    <string name="mar">Morocco</string>
+    <string name="bell">notification</string>
+    <string name="menu">Menu</string>
 
 </resources>
