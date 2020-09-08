@@ -11,5 +11,9 @@
     <string name="mar">Morocco</string>
     <string name="bell">notification</string>
     <string name="menu">Menu</string>
+    <string name="prevent">Prévention</string>
+    <string name="avoid_contact">évitez tout\ncontact étroit</string>
+    <string name="wash_hands">nettoyez vos\nmains souvent</string>
+    <string name="wear_mask">portez un\nmasque facial</string>
 
 </resources>
