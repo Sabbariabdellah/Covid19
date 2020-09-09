@@ -108,7 +108,7 @@
                 app:layout_constraintTop_toBottomOf="@+id/textView2" />
 
             <Button
-                android:id="@+id/button3"
+                android:id="@+id/allo_samu"
                 android:layout_width="150dp"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
@@ -122,13 +122,13 @@
                 android:textAllCaps="false"
                 android:textColor="#FFFFFF"
                 android:textSize="16sp"
-                app:layout_constraintEnd_toStartOf="@+id/button4"
+                app:layout_constraintEnd_toStartOf="@+id/allo_yakada"
                 app:layout_constraintHorizontal_bias="0.5"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/textView3" />
 
             <Button
-                android:id="@+id/button4"
+                android:id="@+id/allo_yakada"
                 android:layout_width="150dp"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
@@ -144,7 +144,7 @@
                 android:textSize="16sp"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintHorizontal_bias="0.5"
-                app:layout_constraintStart_toEndOf="@+id/button3"
+                app:layout_constraintStart_toEndOf="@+id/allo_samu"
                 app:layout_constraintTop_toBottomOf="@+id/textView3" />
 
             <TextView
@@ -158,7 +158,7 @@
                 android:textColor="#000000"
                 android:textSize="20sp"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/button3" />
+                app:layout_constraintTop_toBottomOf="@+id/allo_samu" />
 
             <ImageView
                 android:id="@+id/imageView2"
@@ -231,6 +231,19 @@
                 app:layout_constraintEnd_toEndOf="@+id/imageView2"
                 app:layout_constraintStart_toStartOf="@+id/imageView2"
                 app:layout_constraintTop_toBottomOf="@+id/imageView2" />
+
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="404dp"
+                android:layout_height="116dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="16dp"
+                android:scaleType="fitXY"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView5"
+                app:srcCompat="@drawable/ic_testbanner" />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
     </ScrollView>
