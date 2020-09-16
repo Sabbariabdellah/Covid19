@@ -112,13 +112,12 @@
                     android:textColor="#FFFFFF" />
 
                 <TextView
-                    android:id="@+id/textView10"
+                    android:id="@+id/confirmed"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="8dp"
                     android:layout_marginTop="50dp"
                     android:fontFamily="@font/graphiksemibold"
-                    android:text="TextView"
                     android:textColor="#FFFFFF"
                     android:textSize="24sp" />
             </androidx.cardview.widget.CardView>
@@ -147,13 +146,12 @@
                     android:textColor="#FFFFFF" />
 
                 <TextView
-                    android:id="@+id/textView12"
+                    android:id="@+id/death"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="8dp"
                     android:layout_marginTop="50dp"
                     android:fontFamily="@font/graphiksemibold"
-                    android:text="TextView"
                     android:textColor="#FFFFFF"
                     android:textSize="24sp" />
             </androidx.cardview.widget.CardView>
@@ -253,13 +251,12 @@
                     android:textColor="#FFFFFF" />
 
                 <TextView
-                    android:id="@+id/textView14"
+                    android:id="@+id/recovred"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginStart="8dp"
                     android:layout_marginTop="50dp"
                     android:fontFamily="@font/graphiksemibold"
-                    android:text="TextView"
                     android:textColor="#FFFFFF"
                     android:textSize="20sp" />
             </androidx.cardview.widget.CardView>
