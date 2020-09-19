@@ -22,4 +22,9 @@
     <string name="recovery">Cas rétablis</string>
     <string name="Active">Cas actifs</string>
     <string name="serious">Cas graves</string>
+    <string name="use_bluetooth">Notre application utilise seulement le bluetooth pour enregister les gens que vous contacter</string>
+    <string name="infected">En cas de contact de personne inféctés l\'application vous envoi une notification pour faire le test</string>
+    <string name="provide_number">Merci d\'inserer votre numéro de téléphone\nIl nous aidera à vous contactez au cas où vous contactez une personne infecté</string>
+    <string name="morocco_code">+212</string>
+    <string name="activate_bluetooth">La dernière étape des réglages\nMerci d\' activer votre Bluetooth</string>
 </resources>
